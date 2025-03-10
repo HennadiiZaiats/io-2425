@@ -16,7 +16,11 @@ My Favorite DnD Class is Paladin
 
 My Favorite Metal is Brass
 
-# 
+# Zadanie 3 
+# Utwórz zmienną która przychowuje nazwę twojego ulubionego metalu
+# Wyświetl tą zmienną zapisaną dużymi literami
+
 I Like Moss
+# 
 
 /\/\(oOo_oOo)/\/\
