@@ -10,9 +10,9 @@
 # My Favorite DnD Class is Paladin
 
  Zadanie 2
-#Napisz kod .py który tworzy skrót z dwóch słów wpisanych przez użykownika
- schemat skrótu to pierwsza litera pierwszego słowa - "&" - pierwsza litera drugiego słowa
-#Rozwiązanie do tego zadań przesłać albo jako plik .py albo jako plik tekstowy .txt z kodem
+Napisz kod .py który tworzy skrót z dwóch słów wpisanych przez użykownika
+schemat skrótu to pierwsza litera pierwszego słowa - "&" - pierwsza litera drugiego słowa
+Rozwiązanie do tego zadań przesłać albo jako plik .py albo jako plik tekstowy .txt z kodem
 
 # My Favorite Metal is Brass
 
