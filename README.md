@@ -21,6 +21,9 @@ My Favorite Metal is Brass
 # Wyświetl tą zmienną zapisaną dużymi literami
 
 I Like Moss
-# 
+# Zadanie 4
+# Napisz kod który przyjmuję input użytkownika i podstawia go do zdania "I Like "
 
 /\/\(oOo_oOo)/\/\
+# Zadanie 5
+# Napisz kod który wyświetla powyższego pająka
