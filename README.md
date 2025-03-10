@@ -1,4 +1,5 @@
 # Mom's Spaghetti
+# Jedno z pięciu zadań do zrobienia: 
 
  My Cat is Named Sernik
  # Zadanie 1 
